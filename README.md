@@ -1,12 +1,17 @@
-- Spider mummy bouncing implemented
+- Collision Test (28/07/25)
 
 https://github.com/user-attachments/assets/25dab863-5051-4e48-ba73-f61f66182e8b
 
-- Very cool combo
+- Very cool combo (29/07/25)
 
 https://github.com/user-attachments/assets/9537ca90-ffec-4bd1-93b2-85863f0c4f69
 
-- Epicly kill the dummy with the sword combo for a quick level up
+- Epicly kill the dummy with the sword combo for a quick level up (30/07/25)
 
 https://github.com/user-attachments/assets/bf258a67-211a-4fe0-a827-22d8f78c4ce4
+
+- Target Camera lock and huge dodge roll (23/08/25)
+
+https://github.com/user-attachments/assets/e6fd7303-6f2f-4233-8e68-2b246ffd9ba8
+
 
