@@ -14,7 +14,11 @@ https://github.com/user-attachments/assets/bf258a67-211a-4fe0-a827-22d8f78c4ce4
 
 https://github.com/user-attachments/assets/e6fd7303-6f2f-4233-8e68-2b246ffd9ba8
 
-- Equipment menu and item db with sword, sheild and bow (13/08/25)
+- Equipment menu and item db with sword, sheild and bow (23/08/25)
 
 https://github.com/user-attachments/assets/4f20ec50-24e2-428f-ab02-989b93496155
+
+- Patroling AI hears, sees and kills rat
+
+https://github.com/user-attachments/assets/ecc21da8-4a6b-43a2-a2d7-9cc2c8250e11
 
