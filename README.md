@@ -18,7 +18,11 @@ https://github.com/user-attachments/assets/e6fd7303-6f2f-4233-8e68-2b246ffd9ba8
 
 https://github.com/user-attachments/assets/4f20ec50-24e2-428f-ab02-989b93496155
 
-- Patroling AI hears, sees and kills rat
+- Patroling AI hears, sees and kills rat (24/08/25)
 
 https://github.com/user-attachments/assets/ecc21da8-4a6b-43a2-a2d7-9cc2c8250e11
+
+- Throwing mechanic with subtle explosion (24/08/25)
+
+https://github.com/user-attachments/assets/d9e36fdd-108c-4677-9667-e2ec12b0a6c2
 
