@@ -26,3 +26,7 @@ https://github.com/user-attachments/assets/ecc21da8-4a6b-43a2-a2d7-9cc2c8250e11
 
 https://github.com/user-attachments/assets/d9e36fdd-108c-4677-9667-e2ec12b0a6c2
 
+- Dark Souls 2 boss with music and ai (25/08/25)
+
+https://github.com/user-attachments/assets/404b3c4f-2d72-4fe0-8e93-c410d0ca5757
+
